@@ -21,5 +21,7 @@ description=[list]
 description=  [*] ImprovisedPaint.ColorYourWorldMagazine
 description=  [*] ImprovisedPaint.DIYCraftsMagazine
 description=[/list]
+description=
+description=Source: [url=https://github.com/Orcicorn-ProjectZomboid/ImprovisedPaint]Github[/url]
 tags=Build 41;Building;Items;Literature;Misc;Textures
 visibility=unlisted
