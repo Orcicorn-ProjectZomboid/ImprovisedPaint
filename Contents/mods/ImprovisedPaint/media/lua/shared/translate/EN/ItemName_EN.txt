@@ -1,0 +1,4 @@
+ItemName_EN = {
+    ItemName_ImprovisedPaint.ColorYourWorldMagazine = "Color Your World",
+    ItemName_ImprovisedPaint.DIYCraftsMagazine = "Smartha Mewart: DIY Crafts",
+}

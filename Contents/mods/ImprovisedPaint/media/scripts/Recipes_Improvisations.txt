@@ -1,0 +1,31 @@
+module ImprovisedPaint
+{
+    imports 
+    {
+        Base
+    }
+
+    recipe ImprovisedPaint {
+        keep WoodenStick,
+        destroy PaintbucketEmpty,
+        BucketWaterFull=10,
+        Salt=5,
+        Flour=5,
+	    Result:PaintWhite,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:120.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe ImprovisedPlaster {
+        keep HandShovel,
+        ConcretePowder,
+        Dirtbag=8,
+        Result:PlasterPowder=3,
+        OnGiveXP:Recipe.OnGiveXP.Give10FarmingXP,
+        Time:120.0,
+        NeedToBeLearn:True,
+        Category:Paint,
+    }
+}

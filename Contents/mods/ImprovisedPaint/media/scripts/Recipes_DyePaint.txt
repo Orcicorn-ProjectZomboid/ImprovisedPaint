@@ -1,0 +1,106 @@
+module ImprovisedPaint
+{
+    imports 
+    {
+        Base
+    }
+
+    recipe DyePaintBlack {
+        keep WoodenStick,
+	    destroy PaintWhite,
+        HairDyeBlack=2,
+	    Result:PaintBlack,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:False,
+        Category:Paint,
+    }
+
+    recipe DyePaintBlue {
+        keep WoodenStick,
+	    destroy PaintWhite,
+        HairDyeBlue=2,
+	    Result:PaintBlue,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:False,
+        Category:Paint,
+    }
+
+    recipe DyePaintGreen {
+        keep WoodenStick,
+	    destroy PaintWhite,
+        HairDyeGreen=2,
+	    Result:PaintGreen,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:False,
+        Category:Paint,
+    }
+
+    recipe DyePaintLightBrown {
+        keep WoodenStick,
+	    destroy PaintWhite,
+        HairDyeLightBrown=2,
+	    Result:PaintLightBrown,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:False,
+        Category:Paint,
+    }
+
+    recipe DyePaintOrange {
+        keep WoodenStick,
+	    destroy PaintWhite,
+        HairDyeGinger=2,
+	    Result:PaintOrange,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:False,
+        Category:Paint,
+    }
+
+    recipe DyePaintPink {
+        keep WoodenStick,
+	    destroy PaintWhite,
+        HairDyePink=2,
+	    Result:PaintPink,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:False,
+        Category:Paint,
+    }
+
+    recipe DyePaintRed {
+        keep WoodenStick,
+	    destroy PaintWhite,
+        HairDyeRed=2,
+	    Result:PaintRed,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:False,
+        Category:Paint,
+    }
+
+    recipe DyePaintWhite {
+        keep WoodenStick,
+	    destroy PaintBlack/PaintBlue/PaintBrown/PaintCyan/PaintGrey/PaintGreen/PaintLightBlue/PaintLightBrown/PaintOrange/PaintPink/PaintPurple/PaintRed/PaintTurquoise/PaintYellow,
+        HairDyeWhite=2,
+	    Result:PaintWhite,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:False,
+        Category:Paint,
+    }
+
+    recipe DyePaintYellow {
+        keep WoodenStick,
+	    destroy PaintWhite,
+        HairDyeYellow/HairDyeBlonde=2,
+	    Result:PaintYellow,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:False,
+        Category:Paint,
+    }
+}

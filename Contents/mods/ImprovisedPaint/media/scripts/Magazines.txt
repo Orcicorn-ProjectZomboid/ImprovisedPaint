@@ -1,0 +1,31 @@
+module ImprovisedPaint {
+    imports {
+        Base
+    }
+
+    item ColorYourWorldMagazine {
+        weight = 0.1,
+        Type = Literature,
+        DisplayName = Color Your World,
+        Icon = ColorYourWorldMagIcon,
+        TeachedRecipes = MixPaintBlack;MixPaintBlue;MixPaintBrown;MixPaintCyan;MixPaintCyan;MixPaintGrey;MixPaintGreen;MixPaintLightBlue;MixPaintLightBrown;MixPaintOrange;MixPaintPink;MixPaintPurple;MixPaintRed;MixPaintTurquoise;MixPaintWhite;MixPaintYellow;DyeMixPaintBrown;DyeMixPaintCyan;DyeMixPaintGrey;DyeMixPaintGreen;DyeMixPaintLightBlue;DyeMixPaintOrange;DyeMixPaintPurple;DyeMixPaintTurquoise;DyeMixTaintBrown;DyeMixTaintBrown2;DyeMixTaintCyan;DyeMixTaintCyan2;DyeMixTaintGrey;DyeMixTaintGreen;DyeMixTaintGreen2;DyeMixTaintLightBlue;DyeMixTaintLightBrown;DyeMixTaintOrange;DyeMixTaintOrange2;DyeMixTaintPink;DyeMixTaintPurple;DyeMixTaintPurple2;DyeMixTaintRed;DyeMixTaintTurquoise;DyeMixTaintTurquoise2,
+        ReplaceOnUse = ColorYourWorldMagazine,
+        Tooltip = Tooltip_ColorYourWorldMag,
+        DisplayCategory = SkillBook,
+        StaticModel = Magazine,
+        WorldStaticModel = ImprovisedPaint.Mag_ColorYourWorld,
+    }
+
+    item DIYCraftsMagazine {
+        weight = 0.1,
+        Type = Literature,
+        DisplayName = Smartha Mewart: DIY Crafts,
+        Icon = DIYCraftsMag,
+        TeachedRecipes = ImprovisedPaint;ImprovisedPlaster,
+        ReplaceOnUse = DIYCraftsMagazine,
+        Tooltip = Tooltip_DIYCraftsMag,
+        DisplayCategory = SkillBook,
+        StaticModel = Magazine,
+        WorldStaticModel = ImprovisedPaint.Mag_DIYCrafts,
+    }
+}

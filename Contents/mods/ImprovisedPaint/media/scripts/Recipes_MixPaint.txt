@@ -1,0 +1,190 @@
+module ImprovisedPaint
+{
+    imports 
+    {
+        Base
+    }
+
+    recipe MixPaintBlack {
+        keep WoodenStick,
+	    PaintGreen=2,
+        PaintRed=2,
+        PaintBlue=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintBlack,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe MixPaintBlue {
+        keep WoodenStick,
+	    PaintPurple=3,
+        PaintCyan=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintBlue,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintBrown {
+        keep WoodenStick,
+	    PaintGreen=3,
+        PaintRed=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintBrown,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintCyan {
+        keep WoodenStick,
+	    PaintGreen=2,
+        PaintBlue=3,
+        destroy PaintbucketEmpty,
+	    Result:PaintCyan,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintGrey {
+        keep WoodenStick,
+	    PaintBlack=3,
+        PaintWhite=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintGrey,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintGreen {
+        keep WoodenStick,
+	    PaintBlue=3,
+        PaintYellow=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintGreen,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintLightBlue {
+        keep WoodenStick,
+	    PaintBlue=3,
+        PaintWhite=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintLightBlue,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintLightBrown {
+        keep WoodenStick,
+	    PaintBrown=3,
+        PaintWhite=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintLightBrown,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintOrange {
+        keep WoodenStick,
+	    PaintRed=3,
+        PaintYellow=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintOrange,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintPink {
+        keep WoodenStick,
+	    PaintRed=3,
+        PaintWhite=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintPink,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintPurple {
+        keep WoodenStick,
+	    PaintRed=3,
+        PaintBlue=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintPurple,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintRed {
+        keep WoodenStick,
+	    PaintYellow=3,
+        PaintPurple=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintRed,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintTurquoise {
+        keep WoodenStick,
+	    PaintGreen=2,
+        PaintBlue=2,
+        PaintWhite,
+        destroy PaintbucketEmpty,
+	    Result:PaintTurquoise,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintYellow {
+        keep WoodenStick,
+	    PaintGreen=2,
+        PaintRed=2,
+        PaintWhite,
+        destroy PaintbucketEmpty,
+	    Result:PaintYellow,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+
+    recipe MixPaintWhite {
+        keep WoodenStick,
+	    Bleach=3,
+        PaintBlack/PaintBlue/PaintBrown/PaintCyan/PaintGrey/PaintGreen/PaintLightBlue/PaintLightBrown/PaintOrange/PaintPink/PaintPurple/PaintRed/PaintTurquoise/PaintYellow=2,
+        destroy PaintbucketEmpty,
+	    Result:PaintWhite,
+	    OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Paint,
+    }
+}

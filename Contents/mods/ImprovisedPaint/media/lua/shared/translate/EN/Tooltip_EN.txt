@@ -1,0 +1,4 @@
+Tooltip_EN = {
+    Tooltip_ColorYourWorldMag = "Understanding and utilizing color wheels",
+    Tooltip_DIYCraftsMag = "'It's a Good Thing!'"
+}

@@ -1,0 +1,25 @@
+version=1
+id=2789503316
+title=Improvised Paint
+description=Over 50 recipes to Craft, Dye, Mix and Tint paint to suit your every need including making your own improvised paint.
+description=
+description=Take any bucket of white paint, add colored hair dye to it and voila, colored paint. Simple as that and available for everyone right away.
+description=
+description=Want to get a little more advanced?  Find the "[i]Color your World[/i]" skill magazine to learn all about mixing colors to create a near endless supply of paint.
+description=
+description=Want green paint? Add Yellow and Blue dye together with white paint.
+description=Don't have white paint?  Add Yellow dye to blue paint.
+description=Don't have Dye? Mix Yellow and Blue paint together
+description=([i]A full listing of recipes is available [url=https://steamcommunity.com/workshop/filedetails/discussion/2789503316/3272436038138436673/]in the discussions pane[/url][/i])
+description=
+description=No more frustrating and fruitless loot runs looking for that one little drop of paint and coming home with the wrong colors. Now you can mix and match to create the colors you want and need all in one easily organized "Paint" tab in your crafting window.
+description=
+description=Still struggling to find paint? Well thankfully Smartha Mewart has you covered with her latest "[i]DIY Crafts[/i]" magazine out on stands today. In it you'll find a brand new recipe for "Improvised Paint".  This simple home recipe lets you craft your own plain white paint that can be later dyed to any color you please.  It's a good thing!
+description=
+description=Magazines can be found in all the usual places you would expect to find them.
+description=[list]
+description=  [*] ImprovisedPaint.ColorYourWorldMagazine
+description=  [*] ImprovisedPaint.DIYCraftsMagazine
+description=[/list]
+tags=Build 41;Building;Items;Literature;Misc;Textures
+visibility=unlisted

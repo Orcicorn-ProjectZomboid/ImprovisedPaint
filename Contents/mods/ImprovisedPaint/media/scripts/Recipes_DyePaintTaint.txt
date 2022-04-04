@@ -1,0 +1,196 @@
+module ImprovisedPaint
+{
+    imports 
+    {
+        Base
+    }
+
+    recipe DyeMixTaintBrown {
+        keep WoodenStick,
+        destroy PaintGreen,
+        HairDyeRed,
+        Result:PaintBrown,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintBrown2 {
+        keep WoodenStick,
+        destroy PaintRed,
+        HairDyeGreen,
+        Result:PaintBrown,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintCyan {
+        keep WoodenStick,
+        destroy PaintBlue,
+        HairDyeGreen,
+        Result:PaintCyan,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintCyan2 {
+        keep WoodenStick,
+        destroy PaintGreen,
+        HairDyeBlue,
+        Result:PaintCyan,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintGrey {
+        keep WoodenStick,
+        destroy PaintBlack,
+        HairDyeWhite,
+        Result:PaintGrey,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintGreen {
+        keep WoodenStick,
+        destroy PaintBlue,
+        HairDyeYellow,
+        Result:PaintGreen,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintGreen2 {
+        keep WoodenStick,
+        destroy PaintYellow,
+        HairDyeBlue,
+        Result:PaintGreen,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintLightBlue {
+        keep WoodenStick,
+        destroy PaintBlue,
+        HairDyeWhite,
+        Result:PaintLightBlue,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintLightBrown {
+        keep WoodenStick,
+        destroy PaintBrown,
+        HairDyeWhite,
+        Result:PaintLightBrown,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintOrange {
+        keep WoodenStick,
+        destroy PaintRed,
+        HairDyeYellow,
+        Result:PaintOrange,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintOrange2 {
+        keep WoodenStick,
+        destroy PaintYellow,
+        HairDyeRed,
+        Result:PaintOrange,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintPink {
+        keep WoodenStick,
+        destroy PaintRed,
+        HairDyeWhite,
+        Result:PaintPink,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintPurple {
+        keep WoodenStick,
+        destroy PaintBlue,
+        HairDyeRed,
+        Result:PaintPurple,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintPurple2 {
+        keep WoodenStick,
+        destroy PaintRed,
+        HairDyeBlue,
+        Result:PaintPurple,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintRed {
+        keep WoodenStick,
+        destroy PaintPurple,
+        HairDyeYellow,
+        Result:PaintRed,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintTurquoise {
+        keep WoodenStick,
+        destroy PaintGreen,
+        HairDyeBlue,
+        HairDyeWhite=1,
+        Result:PaintTurquoise,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+
+    recipe DyeMixTaintTurquoise2 {
+        keep WoodenStick,
+        destroy PaintBlue,
+        HairDyeGreen,
+        HairDyeWhite=1,
+        Result:PaintTurquoise,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:true,
+        Category:Paint,
+    }
+}
