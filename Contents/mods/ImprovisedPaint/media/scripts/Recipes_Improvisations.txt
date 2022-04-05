@@ -13,9 +13,12 @@ module ImprovisedPaint
         Flour=5,
 	    Result:PaintWhite,
 	    OnGiveXP:Recipe.OnGiveXP.None,
-	    Time:120.0,
+	    Time:90.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Prop1:Spoon,
+        Sound:MakePlaster,
     }
 
     recipe ImprovisedPlaster {
@@ -24,8 +27,45 @@ module ImprovisedPaint
         Dirtbag=8,
         Result:PlasterPowder=3,
         OnGiveXP:Recipe.OnGiveXP.Give10FarmingXP,
+        Time:300.0,
+        NeedToBeLearn:True,
+        Category:Paint,
+        AnimNode:Forage,
+        Prop:HandShovel,
+        Prop1:HandShovel,
+        Sound:PutItemInBag,
+    }
+
+    recipe ImprovisedPaintBucket {
+        keep Hammer,
+        keep Scissors,
+        SmallSheetMetal=2,
+        Wire=4,
+        DuctTape=4,
+        Result:PaintbucketEmpty,
         Time:120.0,
         NeedToBeLearn:True,
         Category:Paint,
+        AnimNode:BuildLow,
+        Prop1:Hammer,
+        Sound:Hammering,
+    }
+
+    recipe ImprovisedPaintBrush {
+        keep Saw/GardenSaw,
+        keep Scissors,
+        Plank,
+        RippedSheets=5,
+        DuctTape=4,
+        Result:Paintbrush,
+        SkillRequired:Woodwork=1,
+        OnGiveXP:Give5WoodworkXP,
+        Time:90.0,
+        NeedToBeLearn:Talse,
+        Category:Paint,
+        AnimNode:SawLog,
+        Prop1:GardenSaw,
+        Prop2:Plank,
+        Sound:Sawing,
     }
 }

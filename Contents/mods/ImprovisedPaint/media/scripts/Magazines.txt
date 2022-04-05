@@ -21,7 +21,7 @@ module ImprovisedPaint {
         Type = Literature,
         DisplayName = Smartha Mewart: DIY Crafts,
         Icon = DIYCraftsMag,
-        TeachedRecipes = ImprovisedPaint;ImprovisedPlaster,
+        TeachedRecipes = ImprovisedPaint;ImprovisedPlaster;ImprovisedPaintBucket;ImprovisedPaintBrush,
         ReplaceOnUse = DIYCraftsMagazine,
         Tooltip = Tooltip_DIYCraftsMag,
         DisplayCategory = SkillBook,

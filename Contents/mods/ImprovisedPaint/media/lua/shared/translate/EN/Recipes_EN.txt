@@ -59,4 +59,6 @@ Recipe_EN = {
     /* Improvised Crafting DIYs: Learned  (Unlocked: DIY Crafts) */
     Recipe_ImprovisedPaint = "Improvised Paint",
     Recipe_ImprovisedPlaster = "Improvised Plaster",
+    Recipe_ImprovisedPaintBucket = "Improvised Paint Bucket",
+    Recipe_ImprovisedPaintBrush = "Improvised Paint Brush",
 }
