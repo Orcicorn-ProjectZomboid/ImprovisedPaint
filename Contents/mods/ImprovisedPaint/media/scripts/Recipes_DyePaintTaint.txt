@@ -14,6 +14,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintBrown2 {
@@ -25,6 +27,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintCyan {
@@ -36,6 +40,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintCyan2 {
@@ -47,6 +53,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintGrey {
@@ -58,6 +66,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintGreen {
@@ -69,6 +79,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintGreen2 {
@@ -80,6 +92,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintLightBlue {
@@ -91,6 +105,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintLightBrown {
@@ -102,6 +118,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintOrange {
@@ -113,6 +131,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintOrange2 {
@@ -124,6 +144,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintPink {
@@ -135,6 +157,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintPurple {
@@ -146,6 +170,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintPurple2 {
@@ -157,6 +183,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintRed {
@@ -168,6 +196,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintTurquoise {
@@ -180,6 +210,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyeMixTaintTurquoise2 {
@@ -192,5 +224,7 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 }

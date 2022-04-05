@@ -16,6 +16,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:true,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintBlue {
@@ -28,6 +30,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintBrown {
@@ -40,6 +44,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintCyan {
@@ -52,6 +58,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintGrey {
@@ -64,6 +72,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintGreen {
@@ -76,6 +86,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintLightBlue {
@@ -88,6 +100,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintLightBrown {
@@ -100,6 +114,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintOrange {
@@ -112,6 +128,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintPink {
@@ -124,6 +142,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintPurple {
@@ -136,6 +156,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintRed {
@@ -148,6 +170,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintTurquoise {
@@ -161,6 +185,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintYellow {
@@ -174,6 +200,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe MixPaintWhite {
@@ -186,5 +214,7 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:True,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 }

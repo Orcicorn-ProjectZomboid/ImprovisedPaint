@@ -14,6 +14,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:False,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyePaintBlue {
@@ -25,6 +27,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:False,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyePaintGreen {
@@ -36,6 +40,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:False,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyePaintGrey {
@@ -47,6 +53,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:false,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyePaintLightBlue {
@@ -58,6 +66,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:false,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyePaintLightBrown {
@@ -69,6 +79,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:False,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyePaintOrange {
@@ -80,6 +92,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:False,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyePaintPink {
@@ -91,6 +105,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:False,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyePaintRed {
@@ -102,6 +118,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:False,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyePaintWhite {
@@ -113,6 +131,8 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:False,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 
     recipe DyePaintYellow {
@@ -124,5 +144,7 @@ module ImprovisedPaint
 	    Time:30.0,
 	    NeedToBeLearn:False,
         Category:Paint,
+        AnimMode:Craft,
+        Sound:MakePlaster,
     }
 }
