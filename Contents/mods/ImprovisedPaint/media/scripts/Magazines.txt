@@ -8,7 +8,7 @@ module ImprovisedPaint {
         Type = Literature,
         DisplayName = Color Your World,
         Icon = ColorYourWorldMagIcon,
-        TeachedRecipes = MixPaintBlack;MixPaintBlue;MixPaintBrown;MixPaintCyan;MixPaintCyan;MixPaintGrey;MixPaintGreen;MixPaintLightBlue;MixPaintLightBrown;MixPaintOrange;MixPaintPink;MixPaintPurple;MixPaintRed;MixPaintTurquoise;MixPaintWhite;MixPaintYellow;DyeMixPaintBrown;DyeMixPaintCyan;DyeMixPaintGrey;DyeMixPaintGreen;DyeMixPaintLightBlue;DyeMixPaintOrange;DyeMixPaintPurple;DyeMixPaintTurquoise;DyeMixTaintBrown;DyeMixTaintBrown2;DyeMixTaintCyan;DyeMixTaintCyan2;DyeMixTaintGrey;DyeMixTaintGreen;DyeMixTaintGreen2;DyeMixTaintLightBlue;DyeMixTaintLightBrown;DyeMixTaintOrange;DyeMixTaintOrange2;DyeMixTaintPink;DyeMixTaintPurple;DyeMixTaintPurple2;DyeMixTaintRed;DyeMixTaintTurquoise;DyeMixTaintTurquoise2,
+        TeachedRecipes = MixPaintBlack;MixPaintBlue;MixPaintBrown;MixPaintCyan;MixPaintCyan;MixPaintGrey;MixPaintGreen;MixPaintLightBlue;MixPaintLightBrown;MixPaintOrange;MixPaintPink;MixPaintPurple;MixPaintRed;MixPaintTurquoise;MixPaintWhite;MixPaintYellow;DyeMixPaintBrown;DyeMixPaintCyan;DyeMixPaintGreen;DyeMixPaintOrange;DyeMixPaintPurple;DyeMixPaintTurquoise;DyeMixTaintBrown;DyeMixTaintBrown2;DyeMixTaintCyan;DyeMixTaintCyan2;DyeMixTaintGrey;DyeMixTaintGreen;DyeMixTaintGreen2;DyeMixTaintLightBlue;DyeMixTaintLightBrown;DyeMixTaintOrange;DyeMixTaintOrange2;DyeMixTaintPink;DyeMixTaintPurple;DyeMixTaintPurple2;DyeMixTaintRed;DyeMixTaintTurquoise;DyeMixTaintTurquoise2,
         ReplaceOnUse = ColorYourWorldMagazine,
         Tooltip = Tooltip_ColorYourWorldMag,
         DisplayCategory = SkillBook,

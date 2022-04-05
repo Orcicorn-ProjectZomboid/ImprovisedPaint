@@ -1,5 +1,5 @@
 Recipe_EN = {
-    /* Paint Mixing Recipes: Learned */
+    /* Paint Mixing Recipes (Unlocked CYW) */
     Recipe_MixPaintBlack = "Mix Paint: Black",
     Recipe_MixPaintBlue = "Mix Paint: Blue",
     Recipe_MixPaintBrown = "Mix Paint: Brown",
@@ -20,6 +20,8 @@ Recipe_EN = {
     Recipe_DyePaintBlack = "Dye Paint: Black",
     Recipe_DyePaintBlue = "Dye Paint: Blue",
     Recipe_DyePaintGreen = "Dye Paint: Green",
+    Recipe_DyePaintGrey = "Dye Paint: Grey",
+    Recipe_DyePaintLightBlue = "Dye Paint: Light Blue",
     Recipe_DyePaintLightBrown = "Dye Paint: Light Brown",    
     Recipe_DyePaintOrange = "Dye Paint: Orange",
     Recipe_DyePaintPink = "Dye Paint: Pink",
@@ -27,17 +29,15 @@ Recipe_EN = {
     Recipe_DyePaintWhite = "Dye Paint: White",
     Recipe_DyePaintYellow = "Dye Paint: Yellow",  
 
-    /* Hair Dye Recipes: Mixes */
+    /* Hair Dye Recipes: Mixes (Unlocked: CYW) */
     Recipe_DyeMixPaintBrown = "Dye Paint: Brown (Mix)",  
     Recipe_DyeMixPaintCyan = "Dye Paint: Cyan (Mix)",
-    Recipe_DyeMixPaintGrey = "Dye Paint: Grey (Mix)",
     Recipe_DyeMixPaintGreen = "Dye Paint: Green (Mix)",
-    Recipe_DyeMixPaintLightBlue = "Dye Paint: Light Blue (Mix)",
     Recipe_DyeMixPaintOrange = "Dye Paint: Orange (Mix)",
     Recipe_DyeMixPaintPurple = "Dye Paint: Purple (Mix)",
     Recipe_DyeMixPaintTurquoise = "Dye Paint: Turquoise (Mix)",
 
-    /* Hair Dye Recipes: Taints */
+    /* Hair Dye Recipes: Taints (Unlocked: CYW)  */
     Recipe_DyeMixTaintBrown = "Dye Paint: Brown (Tint)",
     Recipe_DyeMixTaintBrown2 = "Dye Paint: Brown (Tint)",
     Recipe_DyeMixTaintCyan = "Dye Paint: Cyan (Tint)",
@@ -56,7 +56,7 @@ Recipe_EN = {
     Recipe_DyeMixTaintTurquoise = "Dye Paint: Turquoise (Tint)",
     Recipe_DyeMixTaintTurquoise2 = "Dye Paint: Turquoise (Tint)",
 
-    /* Improvised Crafting DIYs: Learned */
+    /* Improvised Crafting DIYs: Learned  (Unlocked: DIY Crafts) */
     Recipe_ImprovisedPaint = "Improvised Paint",
     Recipe_ImprovisedPlaster = "Improvised Plaster",
 }

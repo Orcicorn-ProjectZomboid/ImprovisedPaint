@@ -38,6 +38,28 @@ module ImprovisedPaint
         Category:Paint,
     }
 
+    recipe DyePaintGrey {
+        keep WoodenStick,
+        destroy PaintWhite,
+        HairDyeBlack=1,
+        Result:PaintGrey,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:false,
+        Category:Paint,
+    }
+
+    recipe DyePaintLightBlue {
+        keep WoodenStick,
+        destroy PaintWhite,
+        HairDyeBlue=1,
+        Result:PaintLightBlue,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:false,
+        Category:Paint,
+    }
+
     recipe DyePaintLightBrown {
         keep WoodenStick,
 	    destroy PaintWhite,
