@@ -75,10 +75,10 @@ Recipe_EN = {
     Recipe_ImprovisedDyeYellow = "Improvised Yellow Dye",
 
     /* Improvised Dye Alternate Recipes */
-    Recipe_ImprovisedDyeBlueAlt1 = "Improvised Blue Dye",
-    Recipe_ImprovisedDyeGingerAlt1 = "Improvised Strawberry Blonde Dye",
-    Recipe_ImprovisedDyeGreenAlt1 = "Improvised Green Dye",
-    Recipe_ImprovisedDyeLightBrownAlt1 = "Improvised Light Brown Dye",
-    Recipe_ImprovisedDyeRedAlt1 = "Improvised Red Dye",
+    Recipe_ImprovisedDyeBlueAlt1 = "Improvised Blue Dye (Natural)",
+    Recipe_ImprovisedDyeGingerAlt1 = "Improvised Strawberry Blonde Dye (Natural)",
+    Recipe_ImprovisedDyeGreenAlt1 = "Improvised Green Dye (Natural)",
+    Recipe_ImprovisedDyeLightBrownAlt1 = "Improvised Light Brown Dye (Natural)",
+    Recipe_ImprovisedDyeRedAlt1 = "Improvised Red Dye (Natural)",
 
 }

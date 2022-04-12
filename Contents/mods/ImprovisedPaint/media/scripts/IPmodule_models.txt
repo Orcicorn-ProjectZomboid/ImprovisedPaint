@@ -5,19 +5,19 @@ module ImprovisedPaint {
 
     model Mag_ColorYourWorld {
         mesh = WorldItems/Magazine,
-        texture = other/Magazine_ColorYourWorld,
+        texture = other/IPMagazine_ColorYourWorld,
         scale = 0.4,
     }    
 
     model Mag_DIYCrafts {
         mesh = WorldItems/Magazine,
-        texture = other/Magazine_DIYCrafts,
+        texture = other/IPMagazine_DIYCrafts,
         scale = 0.4,
     }
 
     model Mag_DIYCrafts2 {
         mesh = WorldItems/Magazine,
-        texture = other/Magazine_DIYCrafts2,
+        texture = other/IPMagazine_DIYCrafts2,
         scale = 0.4,
     }
 
