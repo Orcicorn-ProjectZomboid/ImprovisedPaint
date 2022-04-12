@@ -61,7 +61,7 @@ module ImprovisedPaint
         SkillRequired:Woodwork=1,
         OnGiveXP:Give5WoodworkXP,
         Time:90.0,
-        NeedToBeLearn:Talse,
+        NeedToBeLearn:True,
         Category:Paint,
         AnimNode:SawLog,
         Prop1:GardenSaw,
