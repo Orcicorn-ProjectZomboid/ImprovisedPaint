@@ -37,7 +37,7 @@ description=  [tr]
 description=    [td][b]Sidal Vassoon guide to hair coloring[/b][/td]
 description=    [td]Improvised Hair Dyes[/td]
 description=  [/tr]
-description=[list]
+description=[/table]
 description=
 description=[h1]Recipe List[/h1]
 description=An entire directory of the available recipes is listed in the [url=https://steamcommunity.com/workshop/filedetails/discussion/2789503316/3272436038138436673/]pinned discussions thread[/url]
