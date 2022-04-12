@@ -1,7 +1,7 @@
 version=1
 id=2789503316
 title=Improvised Paint
-description=Over 50 recipes to Craft, Dye, Mix and Tint paint to suit your every need including making your own improvised paint.
+description=Over 50 recipes to Craft, Dye, Mix and Tint paint to suit your every need including making your own improvised paint and hair dye.
 description=
 description=Take any bucket of white paint, add colored hair dye to it and voila, colored paint. Simple as that and available for everyone right away.
 description=
