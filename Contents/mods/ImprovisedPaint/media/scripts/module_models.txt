@@ -15,4 +15,10 @@ module ImprovisedPaint {
         scale = 0.4,
     }
 
+    model Mag_DIYCrafts2 {
+        mesh = WorldItems/Magazine,
+        texture = other/Magazine_DIYCrafts2,
+        scale = 0.4,
+    }
+
 }

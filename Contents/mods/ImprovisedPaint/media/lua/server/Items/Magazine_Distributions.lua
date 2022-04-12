@@ -1,6 +1,6 @@
 require 'Items/ProceduralDistributions'
 
--- Color your World Magazine
+-- Color your World Magazine (Paint Mixes)
 table.insert(ProceduralDistributions.list["ArtStorePaper"].items, "ImprovisedPaint.ColorYourWorldMagazine");
 table.insert(ProceduralDistributions.list["ArtStorePaper"].items, 1);
 table.insert(ProceduralDistributions.list["ArtStoreOther"].items, "ImprovisedPaint.ColorYourWorldMagazine");
@@ -26,7 +26,7 @@ table.insert(ProceduralDistributions.list["ShelfGeneric"].items, 0.5);
 table.insert(ProceduralDistributions.list["ToolStoreBooks"].items, "ImprovisedPaint.ColorYourWorldMagazine");
 table.insert(ProceduralDistributions.list["ToolStoreBooks"].items, 1);
 
--- DIY Crafting Magazine
+-- DIY Crafting Magazine (Improvised Crafting)
 table.insert(ProceduralDistributions.list["ArtStoreOther"].items, "ImprovisedPaint.DIYCraftsMagazine");
 table.insert(ProceduralDistributions.list["ArtStoreOther"].items, 0.5);
 table.insert(ProceduralDistributions.list["BedroomSideTable"].items, "ImprovisedPaint.DIYCraftsMagazine");
@@ -54,4 +54,26 @@ table.insert(ProceduralDistributions.list["PostOfficeMagazines"].items, 1);
 table.insert(ProceduralDistributions.list["SalonCounter"].items, "ImprovisedPaint.DIYCraftsMagazine");
 table.insert(ProceduralDistributions.list["SalonCounter"].items, 1);
 table.insert(ProceduralDistributions.list["ShelfGeneric"].items, "ImprovisedPaint.DIYCraftsMagazine");
+table.insert(ProceduralDistributions.list["ShelfGeneric"].items, 0.5);
+
+-- DIY Crafting Magazine 2 (Hair Dye)
+table.insert(ProceduralDistributions.list["BedroomSideTable"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["BedroomSideTable"].items, 3);
+table.insert(ProceduralDistributions.list["BathroomCounter"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["BathroomCounter"].items, 0.5);
+table.insert(ProceduralDistributions.list["BathroomCounterNoMeds"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["BathroomCounterNoMeds"].items, 1);
+table.insert(ProceduralDistributions.list["BookstoreMisc"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["BookstoreMisc"].items, 3);
+table.insert(ProceduralDistributions.list["CrateMagazines"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["CrateMagazines"].items, 0.8);
+table.insert(ProceduralDistributions.list["MagazineRackMixed"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["MagazineRackMixed"].items, 3);
+table.insert(ProceduralDistributions.list["PostOfficeMagazines"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["PostOfficeMagazines"].items, 1);
+table.insert(ProceduralDistributions.list["SalonCounter"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["SalonCounter"].items, 2);
+table.insert(ProceduralDistributions.list["SalonShelfHaircare"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["SalonShelfHaircare"].items, 1);
+table.insert(ProceduralDistributions.list["ShelfGeneric"].items, "ImprovisedPaint.DIYCraftsMagazine2");
 table.insert(ProceduralDistributions.list["ShelfGeneric"].items, 0.5);

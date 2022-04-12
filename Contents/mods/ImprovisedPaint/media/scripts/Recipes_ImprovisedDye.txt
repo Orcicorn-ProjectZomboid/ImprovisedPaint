@@ -1,0 +1,211 @@
+module ImprovisedPaint
+{
+    imports 
+    {
+        Base
+    }
+
+    /* General worldly items */
+
+    recipe ImprovisedDyeBlack {
+        keep MortarPestle,
+        Water=10,
+        DriedBlackBeans/Charcoal/BlackSage,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeBlack,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    } 
+
+    recipe ImprovisedDyeBlonde {
+        keep MortarPestle,
+        Water=10,
+        DriedLentils/LemonGrass,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeBlonde,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    } 
+
+    recipe ImprovisedDyeBlue {
+        keep MortarPestle,
+        PillsSleepingTablets=5,
+        Water=10,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeBlue,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    } 
+
+    recipe ImprovisedDyeGinger {
+        keep MortarPestle,
+        farming.CarrotSeed=25,
+        farming.StrewberrieSeed=25,
+        Water=10,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeGinger,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    recipe ImprovisedDyeGreen {
+        keep MortarPestle,
+        Water=10,
+        farming.BroccoliSeed/farming.CabbageSeed=50,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeGreen,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    recipe ImprovisedDyeLightBrown {
+        keep MortarPestle,
+        farming.PotatoSeed=50,
+        Water=10,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeLightBrown,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    recipe ImprovisedDyePink {
+        keep MortarPestle,
+        farming.StrewberrieSeed=50,
+        Water=10,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyePink,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    recipe ImprovisedDyeRed {
+        keep MortarPestle,
+        Water=10,
+        farming.RedRadishSeed/farming.TomatoSeed=50,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeRed,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    recipe ImprovisedDyeWhite {
+        keep MortarPestle,
+        Water=5,
+        Bleach,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeWhite,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    recipe ImprovisedDyeYellow {
+        keep MortarPestle,
+        Water=5,
+        Bleach,
+        DriedLentils/LemonGrass,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeYellow,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    /************************************************************************** 
+     *  Alternate Recipes: Above use counts of seeds, below uses full items 
+     **************************************************************************/
+
+    recipe ImprovisedDyeBlueAlt1 {
+        keep MortarPestle,
+        Violets/BerryBlue/BerryGeneric2,
+        Water=10,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeBlue,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    recipe ImprovisedDyeGingerAlt1 {
+        keep MortarPestle,
+        BerryGeneric4,
+        Water=10,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeGinger,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    recipe ImprovisedDyeGreenAlt1 {
+        keep MortarPestle,
+        CommonMallow,
+        Water=10,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeGreen,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    recipe ImprovisedDyeLightBrownAlt1 {
+        keep MortarPestle,
+        Ginseng,
+        Water=10,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeLightBrown,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+    recipe ImprovisedDyeRedAlt1 {
+        keep MortarPestle,
+        Water=10,
+        Rosehips/BerryGeneric1,
+        OilVegetable/OilOlive=1,
+        destroy WaterBottleEmpty/PopBottleEmpty/WhiskeyEmpty/BeerEmpty/WineEmpty2/MayonnaiseEmpty,
+        Result:HairDyeRed,
+        OnGiveXP:Recipe.OnGiveXP.None,
+	    Time:30.0,
+	    NeedToBeLearn:True,
+        Category:Dye,
+    }
+
+}

@@ -28,4 +28,17 @@ module ImprovisedPaint {
         StaticModel = Magazine,
         WorldStaticModel = ImprovisedPaint.Mag_DIYCrafts,
     }
+
+    item DIYCraftsMagazine2 {
+        weight = 0.1,
+        Type = Literature,
+        DisplayName = Sidal Vassoon guide to hair coloring,
+        Icon = DIYCraftsMag2,
+        TeachedRecipes = ImprovisedDyeBlack;ImprovisedDyeBlonde;ImprovisedDyeBlue;ImprovisedDyeGinger;ImprovisedDyeGreen;ImprovisedDyeLightBrown;ImprovisedDyePink;ImprovisedDyeRed;ImprovisedDyeWhite;ImprovisedDyeYellow;ImprovisedDyeBlueAlt1;ImprovisedDyeGingerAlt1;ImprovisedDyeGreenAlt1;ImprovisedDyeLightBrownAlt1;ImprovisedDyeRedAlt1,
+        ReplaceOnUse = DIYCraftsMagazine2,
+        Tooltip = Tooltip_DIYCraftsMag2,
+        DisplayCategory = SkillBook,
+        StaticModel = Magazine,
+        WorldStaticModel = ImprovisedPaint.Mag_DIYCrafts2,
+    }
 }

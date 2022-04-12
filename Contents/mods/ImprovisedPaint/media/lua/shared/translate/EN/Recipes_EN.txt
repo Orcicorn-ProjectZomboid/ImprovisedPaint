@@ -61,4 +61,24 @@ Recipe_EN = {
     Recipe_ImprovisedPlaster = "Improvised Plaster",
     Recipe_ImprovisedPaintBucket = "Improvised Paint Bucket",
     Recipe_ImprovisedPaintBrush = "Improvised Paint Brush",
+
+    /* Improvised Dyes */
+    Recipe_ImprovisedDyeBlack = "Improvised Black Dye",
+    Recipe_ImprovisedDyeBlonde = "Improvised Blonde Dye",
+    Recipe_ImprovisedDyeBlue = "Improvised Blue Dye",
+    Recipe_ImprovisedDyeGinger = "Improvised Strawberry Blonde Dye",
+    Recipe_ImprovisedDyeGreen = "Improvised Green Dye",
+    Recipe_ImprovisedDyeLightBrown = "Improvised Light Brown Dye",
+    Recipe_ImprovisedDyePink = "Improvised Pink Dye",
+    Recipe_ImprovisedDyeRed = "Improvised Red Dye",
+    Recipe_ImprovisedDyeWhite = "Improvised White Dye",
+    Recipe_ImprovisedDyeYellow = "Improvised Yellow Dye",
+
+    /* Improvised Dye Alternate Recipes */
+    Recipe_ImprovisedDyeBlueAlt1 = "Improvised Blue Dye",
+    Recipe_ImprovisedDyeGingerAlt1 = "Improvised Strawberry Blonde Dye",
+    Recipe_ImprovisedDyeGreenAlt1 = "Improvised Green Dye",
+    Recipe_ImprovisedDyeLightBrownAlt1 = "Improvised Light Brown Dye",
+    Recipe_ImprovisedDyeRedAlt1 = "Improvised Red Dye",
+
 }
