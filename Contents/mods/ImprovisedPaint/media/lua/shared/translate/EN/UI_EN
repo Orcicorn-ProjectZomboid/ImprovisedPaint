@@ -1,0 +1,4 @@
+UI_EN = {
+    /* Make note about the free tiles in profession window */
+    UI_profdesc_repairman = "Craft improvised paint, plaster and brushes",
+}
