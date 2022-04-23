@@ -8,7 +8,7 @@ table.insert(ProceduralDistributions.list["ArtStoreOther"].items, 1);
 table.insert(ProceduralDistributions.list["BookstoreMisc"].items, "ImprovisedPaint.ColorYourWorldMagazine");
 table.insert(ProceduralDistributions.list["BookstoreMisc"].items, 5);
 table.insert(ProceduralDistributions.list["ClassroomDesk"].items, "ImprovisedPaint.ColorYourWorldMagazine");
-table.insert(ProceduralDistributions.list["ClassroomDesk"].items, 1);
+table.insert(ProceduralDistributions.list["ClassroomDesk"].items, 0.5);
 table.insert(ProceduralDistributions.list["ClassroomMisc"].items, "ImprovisedPaint.ColorYourWorldMagazine");
 table.insert(ProceduralDistributions.list["ClassroomMisc"].items, 0.1);
 table.insert(ProceduralDistributions.list["ClassroomShelves"].items, "ImprovisedPaint.ColorYourWorldMagazine");
@@ -33,7 +33,6 @@ table.insert(ProceduralDistributions.list["ShelfGeneric"].items, "ImprovisedPain
 table.insert(ProceduralDistributions.list["ShelfGeneric"].items, 0.5);
 table.insert(ProceduralDistributions.list["ToolStoreBooks"].items, "ImprovisedPaint.ColorYourWorldMagazine");
 table.insert(ProceduralDistributions.list["ToolStoreBooks"].items, 1);
-
 
 -- DIY Crafting Magazine (Improvised Crafting)
 table.insert(ProceduralDistributions.list["ArtStoreOther"].items, "ImprovisedPaint.DIYCraftsMagazine");
@@ -78,6 +77,8 @@ table.insert(ProceduralDistributions.list["BedroomSideTable"].items, "Improvised
 table.insert(ProceduralDistributions.list["BedroomSideTable"].items, 3);
 table.insert(ProceduralDistributions.list["BathroomCounter"].items, "ImprovisedPaint.DIYCraftsMagazine2");
 table.insert(ProceduralDistributions.list["BathroomCounter"].items, 1);
+table.insert(ProceduralDistributions.list["BathroomCounter"].junk.items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["BathroomCounter"].junk.items, 1);
 table.insert(ProceduralDistributions.list["BathroomCounterNoMeds"].items, "ImprovisedPaint.DIYCraftsMagazine2");
 table.insert(ProceduralDistributions.list["BathroomCounterNoMeds"].items, 1);
 table.insert(ProceduralDistributions.list["BookstoreMisc"].items, "ImprovisedPaint.DIYCraftsMagazine2");
@@ -102,9 +103,15 @@ table.insert(ProceduralDistributions.list["PostOfficeMagazines"].items, "Improvi
 table.insert(ProceduralDistributions.list["PostOfficeMagazines"].items, 1);
 table.insert(ProceduralDistributions.list["SalonCounter"].items, "ImprovisedPaint.DIYCraftsMagazine2");
 table.insert(ProceduralDistributions.list["SalonCounter"].items, 2);
+table.insert(ProceduralDistributions.list["SalonCounter"].junk.items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["SalonCounter"].junk.items, 1);
 table.insert(ProceduralDistributions.list["SalonShelfTowels"].items, "ImprovisedPaint.DIYCraftsMagazine2");
 table.insert(ProceduralDistributions.list["SalonShelfTowels"].items, 1);
 table.insert(ProceduralDistributions.list["SalonShelfHaircare"].items, "ImprovisedPaint.DIYCraftsMagazine2");
-table.insert(ProceduralDistributions.list["SalonShelfHaircare"].items, 1);
+table.insert(ProceduralDistributions.list["SalonShelfHaircare"].items, 1.5);
+table.insert(ProceduralDistributions.list["SalonShelfTowels"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["SalonShelfTowels"].items, 2);
+table.insert(ProceduralDistributions.list["SchoolLockers"].items, "ImprovisedPaint.DIYCraftsMagazine2");
+table.insert(ProceduralDistributions.list["SchoolLockers"].items, 0.1);
 table.insert(ProceduralDistributions.list["ShelfGeneric"].items, "ImprovisedPaint.DIYCraftsMagazine2");
 table.insert(ProceduralDistributions.list["ShelfGeneric"].items, 0.5);
