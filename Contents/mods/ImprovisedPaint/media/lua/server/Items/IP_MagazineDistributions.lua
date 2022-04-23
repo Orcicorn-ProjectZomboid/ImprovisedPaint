@@ -37,7 +37,7 @@ table.insert(ProceduralDistributions.list["ToolStoreBooks"].items, 1);
 
 -- DIY Crafting Magazine (Improvised Crafting)
 table.insert(ProceduralDistributions.list["ArtStoreOther"].items, "ImprovisedPaint.DIYCraftsMagazine");
-table.insert(ProceduralDistributions.list["ArtStoreOther"].items, 0.5);
+table.insert(ProceduralDistributions.list["ArtStoreOther"].itesetms, 0.5);
 table.insert(ProceduralDistributions.list["BedroomSideTable"].items, "ImprovisedPaint.DIYCraftsMagazine");
 table.insert(ProceduralDistributions.list["BedroomSideTable"].items, 3);
 table.insert(ProceduralDistributions.list["BookstoreMisc"].items, "ImprovisedPaint.DIYCraftsMagazine");
