@@ -1,0 +1,5 @@
+Tooltip_EN = {
+    Tooltip_IPColorYourWorldMag = "Understanding and utilizing color wheels",
+    Tooltip_IPDIYCraftsMag = "'It's a Good Thing!'"
+    Tooltip_IPDIYCraftsMag2 = "If you don't look good, we don't look good",
+}

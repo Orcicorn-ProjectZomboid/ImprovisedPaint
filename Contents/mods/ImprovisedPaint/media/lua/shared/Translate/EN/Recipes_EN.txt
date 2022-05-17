@@ -1,0 +1,84 @@
+Recipe_EN = {
+    /* Paint Mixing Recipes (Unlocked CYW) */
+    Recipe_MixPaintBlack = "Mix Paint: Black",
+    Recipe_MixPaintBlue = "Mix Paint: Blue",
+    Recipe_MixPaintBrown = "Mix Paint: Brown",
+    Recipe_MixPaintCyan = "Mix Paint: Cyan",
+    Recipe_MixPaintGrey = "Mix Paint: Grey",
+    Recipe_MixPaintGreen = "Mix Paint: Green",
+    Recipe_MixPaintLightBlue = "Mix Paint: Light Blue",
+    Recipe_MixPaintLightBrown = "Mix Paint: Light Brown",
+    Recipe_MixPaintOrange = "Mix Paint: Orange",
+    Recipe_MixPaintPink = "Mix Paint: Pink",
+    Recipe_MixPaintPurple = "Mix Paint: Purple",
+    Recipe_MixPaintRed = "Mix Paint: Red",
+    Recipe_MixPaintTurquoise = "Mix Paint: Turquoise",
+    Recipe_MixPaintWhite = "Mix Paint: White",
+    Recipe_MixPaintYellow = "Mix Paint: Yellow",
+
+    /* Hair Dye Recipes: Default */
+    Recipe_DyePaintBlack = "Dye Paint: Black",
+    Recipe_DyePaintBlue = "Dye Paint: Blue",
+    Recipe_DyePaintGreen = "Dye Paint: Green",
+    Recipe_DyePaintGrey = "Dye Paint: Grey",
+    Recipe_DyePaintLightBlue = "Dye Paint: Light Blue",
+    Recipe_DyePaintLightBrown = "Dye Paint: Light Brown",    
+    Recipe_DyePaintOrange = "Dye Paint: Orange",
+    Recipe_DyePaintPink = "Dye Paint: Pink",
+    Recipe_DyePaintRed = "Dye Paint: Red",
+    Recipe_DyePaintWhite = "Dye Paint: White",
+    Recipe_DyePaintYellow = "Dye Paint: Yellow",  
+
+    /* Hair Dye Recipes: Mixes (Unlocked: CYW) */
+    Recipe_DyeMixPaintBrown = "Dye Paint: Brown (Mix)",  
+    Recipe_DyeMixPaintCyan = "Dye Paint: Cyan (Mix)",
+    Recipe_DyeMixPaintGreen = "Dye Paint: Green (Mix)",
+    Recipe_DyeMixPaintOrange = "Dye Paint: Orange (Mix)",
+    Recipe_DyeMixPaintPurple = "Dye Paint: Purple (Mix)",
+    Recipe_DyeMixPaintTurquoise = "Dye Paint: Turquoise (Mix)",
+
+    /* Hair Dye Recipes: Taints (Unlocked: CYW)  */
+    Recipe_DyeMixTaintBrown = "Dye Paint: Brown (Tint)",
+    Recipe_DyeMixTaintBrown2 = "Dye Paint: Brown (Tint)",
+    Recipe_DyeMixTaintCyan = "Dye Paint: Cyan (Tint)",
+    Recipe_DyeMixTaintCyan2 = "Dye Paint: Cyan (Tint)",
+    Recipe_DyeMixTaintGrey = "Dye Paint: Grey (Tint)",
+    Recipe_DyeMixTaintGreen = "Dye Paint: Green (Tint)",
+    Recipe_DyeMixTaintGreen2 = "Dye Paint: Green (Tint)",
+    Recipe_DyeMixTaintLightBlue = "Dye Paint: Light Blue (Tint)",
+    Recipe_DyeMixTaintLightBrown = "Dye Paint: Light Brown (Tint)",
+    Recipe_DyeMixTaintOrange = "Dye Paint: Orange (Tint)",
+    Recipe_DyeMixTaintOrange2 = "Dye Paint: Orange (Tint)",
+    Recipe_DyeMixTaintPink = "Dye Paint: Pink (Tint)",
+    Recipe_DyeMixTaintPurple = "Dye Paint: Purple (Tint)",
+    Recipe_DyeMixTaintPurple2 = "Dye Paint: Purple (Tint)",
+    Recipe_DyeMixTaintRed = "Dye Paint: Red (Tint)",
+    Recipe_DyeMixTaintTurquoise = "Dye Paint: Turquoise (Tint)",
+    Recipe_DyeMixTaintTurquoise2 = "Dye Paint: Turquoise (Tint)",
+
+    /* Improvised Crafting DIYs: Learned  (Unlocked: DIY Crafts) */
+    Recipe_ImprovisedPaint = "Improvised Paint",
+    Recipe_ImprovisedPlaster = "Improvised Plaster",
+    Recipe_ImprovisedPaintBucket = "Improvised Paint Bucket",
+    Recipe_ImprovisedPaintBrush = "Improvised Paint Brush",
+
+    /* Improvised Dyes */
+    Recipe_ImprovisedDyeBlack = "Improvised Black Dye",
+    Recipe_ImprovisedDyeBlonde = "Improvised Blonde Dye",
+    Recipe_ImprovisedDyeBlue = "Improvised Blue Dye",
+    Recipe_ImprovisedDyeGinger = "Improvised Strawberry Blonde Dye",
+    Recipe_ImprovisedDyeGreen = "Improvised Green Dye",
+    Recipe_ImprovisedDyeLightBrown = "Improvised Light Brown Dye",
+    Recipe_ImprovisedDyePink = "Improvised Pink Dye",
+    Recipe_ImprovisedDyeRed = "Improvised Red Dye",
+    Recipe_ImprovisedDyeWhite = "Improvised White Dye",
+    Recipe_ImprovisedDyeYellow = "Improvised Yellow Dye",
+
+    /* Improvised Dye Alternate Recipes */
+    Recipe_ImprovisedDyeBlueAlt1 = "Improvised Blue Dye (Natural)",
+    Recipe_ImprovisedDyeGingerAlt1 = "Improvised Strawberry Blonde Dye (Natural)",
+    Recipe_ImprovisedDyeGreenAlt1 = "Improvised Green Dye (Natural)",
+    Recipe_ImprovisedDyeLightBrownAlt1 = "Improvised Light Brown Dye (Natural)",
+    Recipe_ImprovisedDyeRedAlt1 = "Improvised Red Dye (Natural)",
+
+}
